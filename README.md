@@ -33,5 +33,6 @@ An upload box is displayed and is inteded to let researchers upload their resear
 # Speakers page
 This page presents the various guest speakers expected to speak at the conference. Inforamtion on each guest speaker along with an image is provided.
 
-Here is a link to the published website (https://sai42021.github.io/Tech-for-humanity-Website/HomePage.html)
-Here is a link to the github repository (https://github.com/Sai42021/Tech-for-humanity-Website.git)
+#Links
+ - Here is a link to the published website (https://sai42021.github.io/Tech-for-humanity-Website/HomePage.html)
+ - Here is a link to the github repository (https://github.com/Sai42021/Tech-for-humanity-Website.git)
